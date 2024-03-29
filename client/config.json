@@ -1,0 +1,5 @@
+{
+  "server_url": "http://localhost:8080/alert",
+  "monitor_path": "/path/to/monitor",
+  "threatbook_api_key": "your_threatbook_api_key_here"
+}
