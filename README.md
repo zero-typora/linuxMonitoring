@@ -28,4 +28,4 @@
 
 ```
 
-![image-20240329145928783](/Users/admin/Gowrk/src/monitoring_system/image-20240329145928783.png)
+![image-20240329145928783](image-20240329145928783.png)
